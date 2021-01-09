@@ -14,3 +14,7 @@ A Laravel project for running a web application to provide a client an interface
     <li>In the page with heading "Links to Job Hazard Analyses for Activities", to view a Job Hazard Analysis for an activity, click a hyperlink corresponding to an activity.
     <li>In the page with heading "Links to Job Hazard Analyses for Activities", to enter a Job Hazard Analysis for an activity, click "Go to Form for Entering JHA's", and follow the usage instructions.
 <ol>
+
+<h2>Process Diagram for JHA Keeper</h2>
+
+![image-20210109012949250](C:\Users\thoma\AppData\Roaming\Typora\typora-user-images\image-20210109012949250.png)
