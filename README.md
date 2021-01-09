@@ -17,4 +17,4 @@ A Laravel project for running a web application to provide a client an interface
 
 <h2>Process Diagram for JHA Keeper</h2>
 
-![image-20210109012949250](C:\Users\thoma\AppData\Roaming\Typora\typora-user-images\image-20210109012949250.png)
+![alt text](https://github.com/tslever/JHA_Keeper/blob/main/Process_Diagram--JHA_Keeper.png)
